@@ -1,4 +1,4 @@
-# 🌟 Django-blog
+# Django-blog
 
 Welcome to **Django-blog** documentation. This document aims to provide an overview of the project, its features, setup instructions, and other essential information.
 
