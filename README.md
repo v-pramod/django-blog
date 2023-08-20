@@ -17,6 +17,8 @@ Welcome to **Django-blog** documentation. This document aims to provide an overv
 
 The project uses Django for the backend, Django Templates for rendering the frontend, and PostgreSQL as the database management system to store user and blog data.
 
+[Checkout the application here](https://hidden-violet-6754.fly.dev/)
+
 ## Features
 
 - User Registration: Users can create accounts on the platform, providing basic details.
